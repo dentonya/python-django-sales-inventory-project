@@ -1,2 +1,7 @@
 # python-django-sales-inventory-project
-Project for keeping sales and inventory records
+
+A python application software used for storing sales and inventory records.
+
+## License
+
+Apache [License](License)
