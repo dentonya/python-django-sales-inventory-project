@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/denatonya/Documents/inventory-management-master/venv"
+set -gx VIRTUAL_ENV "/home/denatonya/Documents/GitHub/python-django-sales-inventory-project/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

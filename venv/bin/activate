@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/denatonya/Documents/inventory-management-master/venv"
+VIRTUAL_ENV="/home/denatonya/Documents/GitHub/python-django-sales-inventory-project/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
